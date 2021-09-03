@@ -1,0 +1,5 @@
+Credentials cache: API:17D93BD7-8187-457D-A575-5CBE77922E55
+        Principal: zoukaddo@1337.MA
+
+  Issued                Expires               Principal
+Aug  3 17:37:11 2021  Aug 10 17:37:11 2021  krbtgt/1337.MA@1337.MA
